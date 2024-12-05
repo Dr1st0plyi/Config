@@ -1,4 +1,5 @@
 # Создание виртуальной файловой системы
+```
 mkdir -p vfs/home/user
 
 mkdir -p vfs/var/log
@@ -27,6 +28,6 @@ nano file3.txt
 9
 10
 tar -cvf filesystem.tar -C vfs .
-
+```
 # Запуск работы
 python3 emulator.py -n mypc -f filesystem.tar -s startup.sh
