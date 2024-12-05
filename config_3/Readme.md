@@ -1,5 +1,5 @@
 # Запуск
 
-```python tool.py network_config.xml network_config.cfg```
+```python tool.py calc_config.xml calc_config.cfg```
 
-```python tool.py character_config.xml character_config.cfg```
+```python tool.py users_config.xml users_config.cfg```

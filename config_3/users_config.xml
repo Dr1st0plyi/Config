@@ -1,0 +1,19 @@
+<config>
+    <multiline_comment>
+        Это
+        многострочный
+        комментарий
+    </multiline_comment>
+    <var name="usernames">
+        <array>
+            <string>Alice</string>
+            <string>Bob</string>
+            <string>Charlie</string>
+        </array>
+    </var>
+    <expr op="sort">
+        <string>Zoe</string>
+        <string>Anna</string>
+        <string>Mike</string>
+    </expr>
+</config>

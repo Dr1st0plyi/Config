@@ -1,0 +1,17 @@
+<config>
+    <var name="a">
+        <number>10</number>
+    </var>
+    <var name="b">
+        <number>20</number>
+    </var>
+    <expr op="+">
+        <number>5</number>
+        <number>3</number>
+    </expr>
+    <expr op="min">
+        <number>7</number>
+        <number>2</number>
+        <number>5</number>
+    </expr>
+</config>
