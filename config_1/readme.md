@@ -49,3 +49,6 @@ tar -cvf filesystem.tar -C vfs .
 В emulator.py реализованно эмулирование файловой системы, в startup.sh проводится тестирование каждой реализованной команды минимум 2 раза.
 ## Запуск работы
 python3 emulator.py -n mypc -f filesystem.tar -s startup.sh
+## Тестирование
+![изображение](https://github.com/user-attachments/assets/8ad3ee64-0d3a-4f29-99aa-75a26e313d57)
+
