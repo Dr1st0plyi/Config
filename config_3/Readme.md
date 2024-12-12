@@ -12,7 +12,8 @@
 ``` |#
     Это многострочный
     комментарий
-    #|```
+    #|
+```
 ### 2. Массивы
 Массивы определяются с использованием ключевого слова (list ...):
 ```(list значение значение значение ...)```
@@ -46,9 +47,11 @@ python config_translator.py --input input.xml --output output.cfg
 Аргументы командной строки:
 - --input — путь к входному XML-файлу.
 - --output — путь к файлу для сохранения результата в формате УКЯ.
-
+## Запуск
+- Файл с простыми вычислениями
+```python tool.py calc_config.xml calc_config.cfg```
+- Файл с массивом и сортировкой
+```python tool.py users_config.xml users_config.cfg```
 ## Тестирование
 
-## Запуск
-```python tool.py calc_config.xml calc_config.cfg```
-```python tool.py users_config.xml users_config.cfg```
+![Тест](https://github.com/user-attachments/assets/4314b33c-a8a9-4c2f-a4d2-2be66b1201a4)
