@@ -53,5 +53,6 @@ python config_translator.py --input input.xml --output output.cfg
 - Файл с массивом и сортировкой
 ```python tool.py users_config.xml users_config.cfg```
 ## Тестирование
+![изображение](https://github.com/user-attachments/assets/8ccfb1be-4d28-4e3a-9b1e-f643323d6366)
 
 ![Тест](https://github.com/user-attachments/assets/4314b33c-a8a9-4c2f-a4d2-2be66b1201a4)
